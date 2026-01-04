@@ -1,0 +1,22 @@
+services:
+  backend:
+    build: ./back_fisio
+    ports:
+      - "4000:4000"
+    env_file:
+      - ./back_fisio/.env
+    volumes:
+      - ./back_fisio:/app
+      - /app/node_modules
+    restart: always
+
+  frontend:
+    build: ./front_fisio
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    volumes:
+      - ./front_fisio:/app
+      - /app/node_modules
+    restart: always

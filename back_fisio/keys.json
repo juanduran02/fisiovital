@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fisiovital-citas",
+  "private_key_id": "b5d4cea2e7c9cab18490c63149a493726e704a34",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtFUqb+FBllnHz\nsVCNNWbzhXQMY4EIijrqQMXIjoOLiWeE1PA6rPK5L1hLFdu20vsy4+x5E53rAvh+\nGFYGK8kQXu+4gc68i80ih6+aN/3C89pRIb5ep/FliYwZKCDYS5v8x0c6yjWqQN6B\n1bUQV5ATjUZoKlPqvw3R+eVCvJH32WacXaLfy2fruVLcvkHR2DGBpW5Jya48pTzb\nrUwmXbjztcqlu8VhqxzHS18xKj0PMuCy6yO/LrpgXsp+FgHZYdYY2SysBm1f5rpt\no9EetbCnKwC1Z2T/uyHTJ75jEavFQ/9S2fcSZ3FxOlfPPIJHXxCMUhPqKDQ2SjZ8\nYRxhNBKbAgMBAAECggEACtJNd2H3mNpmpn9cE3AWzzv1TP79psyJsXK6SvdKFzPQ\nkpgDqw98H4LryMoFkjEvvndMpidJVNO7OJsJ6dnb+NeOsmD/TX+KJFIKcyB0D7fS\nWwc6kU17xMbsSPhe0Vcs2gmVlQHmiA4FO2Xiq7Jl0isfj0yyMXefhBTVNi53C+Fj\n7zxP++5tbacKEDSq5tEwaMZnv46L7GlWx6Km64V6R6X77+wgBtpkiH54KPaXKIrz\n19vQr/VI+UV47xknMDpQFuutS6p/rZmoXrpU2+XycWnSHlkC2g6F2yb7tlJUpul8\nCftqioSVYFX633/cSXbFE5dhsZ0aXt/gHnayn9ibAQKBgQDf6Eng7OEeThw/+Piq\nyR4Q7vfMZ0P/SBg53jEFvV+zKr45NMXhY0uBwRA3+cvVQGRKNyp/rSZ83H1bIRNk\ny8YUaCUq3JbnEnBiIQigagm1ohouNGgEEmNMUpcuXJv6ec6b+Ol+BlBBSNqUFInI\ndgqItOct18XzOOR8Xc4iIM2tAQKBgQDF5CNM+fsKSkVnp+eCIu44EQzAmD/tz1RN\nPu86v0+RUd6Ca91fGy4xefBDxcUMPUJ1cd8IfD65f1q4tQD4nu4c5GrlNKFUIJUt\n4mnr73GTCQw6bI84QBIVb8S1ThZKqTJqac+zv6RcnX8Vc12tNVI/aG35OKnqhdz/\nCq/GJJVTmwKBgQDSBdAuk+MBiyECfKW7hNSX658x8vccIGLg/OKc0KpQo9o0TKUE\nKiBsQEzXRI8Go9SurJpHkoHUgvlunlLTrDRLdfjPAITnkCssUHIIDg63ear3Bh8/\nGoRb1eiLC0EfrFu5f7x8gq2K3yxv0+f9yYNOAeoK3SeHYikn4tF0v7JNAQKBgC6t\nCu6DIAVjU0+JuP9nAc1TqDBdOOb8uiOmLoMq0Le0Gcmla4edP54H5vX1Ve73HA/b\nlgHIXHsgYOOkPeBmjD9gWR5K9aqELOuvtdAioCVQQwQcywM3iYxo2nrxOizOD8gt\nwQHit//oXitPFM9f/lBab2YTSXC5tlCp0p/nzRj1AoGBAJwCPNE5R34x04dK69QI\nE7Hop7MWRBAvS2pH5TRRJgUR3wFmWeaLLn1MU8BC3rR/HvH3vsyJ8hy8+u2vXCRu\ntZ2KuRsAL7yK9FIu8iofsLenQMyp+ddNJ2szHbDK+FeuOwgVBzjf2rTmk9a2Dezj\n4wLqVQEWKJ9yasetMphaT3gd\n-----END PRIVATE KEY-----\n",
+  "client_email": "fisio-calendar@fisiovital-citas.iam.gserviceaccount.com",
+  "client_id": "103563099104013287973",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fisio-calendar%40fisiovital-citas.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
